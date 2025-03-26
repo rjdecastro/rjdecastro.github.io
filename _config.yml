@@ -51,8 +51,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "racheldecasotr001@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  whatsapp: 15551212
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
   linkedin: "https://www.linkedin.com/in/rachel-decastro/"
   telephone: "(424)212-3135"
 #  steam: deanat78
@@ -65,12 +64,9 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
 #  itchio: yourname
-#  untappd: yourname
-#  strava: youruserid
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -124,8 +120,8 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
+page-col: "#3d3d3d"
+text-col: "#fcfcfc"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 navbar-col: "#EAEAEA"
