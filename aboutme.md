@@ -17,9 +17,3 @@ New Mexico Mining & Tech co-op with Sandia National Laboratories | Socorro, New 
  - Worked on the development of an API-based migration tool using Gradle and OracleDB to facilitate a transition between project management platforms (Rally to Jira), improving workflow automation.
  - Integrated Postman API for HTTP get requests in the data exchange, ensuring seamless communication between software applications while providing user customization controls.
  - Deployed a containerized blog server using Docker Compose, managing networking between multiple Docker containers to create a scalable and efficient messaging platform.
-
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
