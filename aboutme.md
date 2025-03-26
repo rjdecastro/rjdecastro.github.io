@@ -4,7 +4,7 @@ title: My Experience
 subtitle: Where I've worked
 ---
 
-subtitle: My name is Rachel Decastro, an aspiring tech-person of sorts! Here is my ever-growing experience list:
+My name is Rachel Decastro, an aspiring tech-person of sorts! Here is my ever-growing experience list:
 
 Director of Mitchell C. Hill Data Center - October 2024 -- Present
 Cal Poly Foundation | Pomona, CA
